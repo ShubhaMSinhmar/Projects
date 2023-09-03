@@ -1,0 +1,2 @@
+API KEY: 23de54b1521c29be362f48d59b750779
+ URL: https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
